@@ -2,7 +2,7 @@ kaleido
 plotly
 pandas
 numpy
-sklearn
+scikit-learn
 plotly
 scipy
 chart-studio
