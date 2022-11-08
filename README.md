@@ -36,7 +36,7 @@ Example :
 
 
 ## HTML files
-The analyse files corresponding to the [current study](https://rawcdn.githack.com/vincentpmartin/sleep-content-analysis/565879f4b69812059b5149a5c69e3c727d49d496/results_notebook_html/MartinGauld2022.html) and of the [seminal paper from Eiko Fried (2017)](https://rawcdn.githack.com/vincentpmartin/sleep-content-analysis/565879f4b69812059b5149a5c69e3c727d49d496/results_notebook_html/Fried2017.html) are available in this repository. <br>
+The analyse files corresponding to the [current study](https://raw.githack.com/vincentpmartin/sleep-content-analysis/main/results_notebook_html/MartinGauld2022.html) and of the [seminal paper from Eiko Fried (2017)](https://raw.githack.com/vincentpmartin/sleep-content-analysis/main/results_notebook_html/Fried2017.html) are available in this repository. <br>
 The figures and tables produced by this code are available in the [./tables_and_figures](./tables_and_figures) folder. 
 
 If you want to customize the code or run the analysis on your own data, please read 👇 next Section 👇
