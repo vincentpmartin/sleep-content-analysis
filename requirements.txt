@@ -1,0 +1,10 @@
+kaleido
+plotly
+pandas
+numpy
+scikit-learn
+plotly
+scipy
+chart-studio
+openpyxl
+Pyppeteer
